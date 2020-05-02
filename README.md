@@ -21,7 +21,7 @@ simple debian distro with terraform client.
 
    c. unzip of the archive
 
-2. Terraform container
+1. Terraform container
 
    a. install ca-certificates package and update
 
